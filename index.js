@@ -203,10 +203,6 @@
 
 
 
-
-
-
-
 // template Engine
 
 // install ejs npm
@@ -367,10 +363,6 @@
 // }
 
 // getData()
-
-
-
-
 
 
 
